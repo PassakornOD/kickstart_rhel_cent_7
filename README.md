@@ -1,0 +1,1 @@
+# kickstart_rhel_cent_7
